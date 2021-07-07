@@ -1,0 +1,190 @@
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.exe
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csprojAssemblyReference.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.AssemblyInfoInputs.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.AssemblyInfo.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorAssemblyInfo.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorAssemblyInfo.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.TagHelpers.input.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.TagHelpers.output.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorCoreGenerate.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\User\Registrar.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\staticwebassets\Final_DIARS.StaticWebAssets.Manifest.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\staticwebassets\Final_DIARS.StaticWebAssets.xml
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csproj.CopyComplete
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.deps.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.runtimeconfig.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.runtimeconfig.dev.json
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.Views.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.Views.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.Views.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.dll
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.pdb
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.genruntimeconfig.cache
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Index.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\_Index.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Create.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Edit.cshtml.g.cs
+C:\Users\Edwin Vásquez\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Detalle.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.exe
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.deps.json
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.runtimeconfig.json
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.runtimeconfig.dev.json
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.Views.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Final_DIARS.Views.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.AssemblyInfoInputs.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.AssemblyInfo.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorAssemblyInfo.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorAssemblyInfo.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\staticwebassets\Final_DIARS.StaticWebAssets.Manifest.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\staticwebassets\Final_DIARS.StaticWebAssets.xml
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\scopedcss\bundle\Final_DIARS.styles.css
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.TagHelpers.input.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.TagHelpers.output.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorCoreGenerate.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Create.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Detalle.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Edit.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\Index.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Nota\_Index.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\User\Registrar.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.Views.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.csproj.CopyComplete
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.dll
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.pdb
+C:\Users\Edwin\source\repos\Final_DIARS\Final_DIARS\obj\Debug\netcoreapp3.1\Final_DIARS.genruntimeconfig.cache
